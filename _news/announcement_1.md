@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2019-06-10 10:00:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+I joined as a Research Fellow at [Wadhwani AI](wadhwaniai.org).
