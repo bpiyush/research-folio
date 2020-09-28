@@ -13,9 +13,11 @@ news: true
 social: true
 ---
 
-I am a Research Fellow at [Wadhwani AI](http://wadhwaniai.org){:target="\_blank"}, a unique organisation with the mission of AI for Social Good: To leverage AI to help the next 5 billion people. Prior to that, I completed my undergrad in Mathematics at [IIT Kanpur](https://iitk.ac.in). At the core of my research curiosity is 3D computer vision, Bayesian machine learning.
+Hi! I am a Research Fellow at [Wadhwani AI](http://wadhwaniai.org){:target="\_blank"}, a unique organisation with the mission of AI for Social Good: to leverage AI to help the next 5 billion people. Specifically, I have been primarily working on [estimating infant anthropometry from monocular video](https://www.wadhwaniai.org/work/maternal-newborn-child-health/). Since the advent of the pandemic, I have also been working on the [Cough Against COVID](https://coughagainstcovid.org/) initiative.
 
-In the past, I have been a research intern at [Adobe](https://research.adobe.com/), India where I worked on privacy and bias in ML models. I have worked on variety of mini-projects on topics ranging from Bayesian inference, zero-shot learning to understanding rotations in 3D.
+Prior to that, I completed my B.S. in Mathematics at [IIT Kanpur](https://iitk.ac.in) where I enjoyed my coursework, especially courses on probabilistic modelling taught by [Dr. Piyush Rai](https://www.cse.iitk.ac.in/users/piyush/). At the core of my research curiosity is 3D computer vision, probablistic modelling and inference.
+
+In the past, I have been a research intern at [Adobe Research](https://research.adobe.com/) where I worked on privacy and bias in ML models. I have worked on variety of mini-projects on topics ranging from Bayesian optimization, zero-shot learning and understanding rotations in 3D.
 
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
