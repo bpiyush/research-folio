@@ -39,9 +39,9 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: bpiyush
 twitter_username: bagad_piyush
 linkedin_username: Piyush Bagad
-scholar_userid: # your Google Scholar ID
+scholar_userid: n-Jei1QAAAAJ
 orcid_id: # your ORCID ID
-medium_username: # your Medium username
+medium_username: piyushnbagad11
 quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
@@ -56,8 +56,8 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio  # your blog must have a name for it to show up in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_name: musings and blogs  # your blog must have a name for it to show up in the nav bar
+blog_description: a space for my (limited) writing
 permalink: /blog/:year/:title/
 
 # Pagination
